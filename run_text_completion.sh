@@ -1,0 +1,1 @@
+python3 example_text_completion.py --ckpt_dir=/home/namch_hust1_gmail_com/llama/llama-2-7b/ --tokenizer_path=/home/namch_hust1_gmail_com/llama/tokenizer.model
